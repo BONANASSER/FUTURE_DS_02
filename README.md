@@ -1,23 +1,9 @@
-# FUTURE_DS_02
-Social Media Campaign Performance Tracker using Power BI
-# FUTURE_DS_02 – Social Media Campaign Performance Tracker
+Social Media Ads Campaign Performance 
 
-### 📌 Objective:
-To analyze Facebook/Instagram campaign data for performance, engagement, CTR, and ROI.
+Objective: Analyze ads data to track performance, ads spend, and ROI.
 
-### 🛠️ Tools Used:
-- Power BI
-- Excel
-- Google Looker Studio (Optional)
+Tools: Power BI, Excel, Google Looker Studio (optional).
 
-### 📊 Features:
-- CTR Calculation
-- ROI Metrics
-- Quarterly Analysis
-- Campaign-Wise & Platform-Wise Visualization
+Features: CTR calculation, ROI metrics, quarterly analysis, and campaign/platform performance visualizations.
 
-### 📁 Files Included:
-- Power BI File (.pbix)
-- Source Data (.csv or .xlsx)
-
-
+Files: Power BI file (.pbix) and source data (.csv or .xlsx).
